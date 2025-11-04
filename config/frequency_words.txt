@@ -2,19 +2,21 @@
 google
 gemini
 
-chatgpt
 openai
-sora
+codex
 
 claude
 Anthropic
+claude code
 
 DeepSeek
 梁文锋
 
-华为
-鸿蒙
-HarmonyOS
+千问
+qwen
+
+小米
+xiaomi
 
 黑神话
 冯骥
